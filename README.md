@@ -17,3 +17,6 @@ Networking library is designed by using apple default library.
 
 *** To run application, Go to https://openweathermap.org to register for api.
 and replace your app "api key" with #API_KEY in code
+
+Code Coverage
+To check code coverage, enabled "code coverage" in "test" target of app scheme.
