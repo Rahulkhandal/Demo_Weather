@@ -37,7 +37,7 @@ final class WeatherApiService: WeatherApiServiceProtocol {
     static let weatherPath: String = "/data/2.5/weather"
     static let forecastPath: String = "/data/2.5/forecast"
     // Not applying any security concern for this key, but we can use Obfuscation or saving as encryption
-    static let apiKey: String = "8fee8b835b47767b3a2660c834d011d6"
+    static let apiKey: String = "#API_KEY"
     
   }
   
