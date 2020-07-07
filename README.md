@@ -5,6 +5,9 @@ Features
 1. Weather forecast by cities
 2. Weather forecast for current location
 
+Architecture
+App use VIPER architecture where presenter controls business logic
+
 Requirements
 iOS 13.0+
 Xcode 11.1
